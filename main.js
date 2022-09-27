@@ -1,9 +1,11 @@
 const cat {
 asb :"bab",
 ssf :"test",
+dgd :"flag",
 }
 
 const dog {
 tag : "aff",
-gap : "taaa"
+gap : "taaa",
+test : "=안넣었네"
 }
